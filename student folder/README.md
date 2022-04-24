@@ -4,7 +4,7 @@
 
 ### 4/24 
 
-1. **Agenda**
+**Agenda**
 
 *Notes*
 
@@ -16,7 +16,7 @@
 
 - [ ] Grading how？
 
-2. **Action items/88
+**Action items/88
 
 - [ ] lab1
 - [ ] 熟悉基本的git命令行操作命令，从github上 的 http://www.github.com/chyyuu/ucore_lab 下载 ucore lab实验
