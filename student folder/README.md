@@ -13,8 +13,8 @@
 *Notes*
 
 - [ ] Lecture Notes see OneNote
-
 - [ ] [学习实验环境入门](https://www.lanqiao.cn/courses/221/learning/?id=709)
+- [ ] [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 
 *Questions*
 
