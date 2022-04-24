@@ -1,6 +1,10 @@
 # Notes 2022 Spring
 
-##  [Lectures and Labs](https://github.com/hmu1540/os_course_info)
+## [课程参考书](https://github.com/hmu1540/os_course_info#%E8%AF%BE%E7%A8%8B%E5%8F%82%E8%80%83%E4%B9%A6)
+
+## [课程答疑](https://github.com/hmu1540/os_course_info#%E8%AF%BE%E7%A8%8B%E7%AD%94%E7%96%91)
+
+##  [Lectures](https://github.com/LearningOS/os-lectures/) and [Labs](https://www.lanqiao.cn/courses/221/learning/?id=709)
 
 ### 4/24 
 
