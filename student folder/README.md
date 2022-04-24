@@ -12,7 +12,8 @@
 
 *Notes*
 
-- [ ] Lecture Notes see OneNote
+- [ ] Lecture Notes see [OneNote](https://baylor0-my.sharepoint.com/personal/huimin_mu1_baylor_edu/_layouts/OneNote.aspx?id=%2Fpersonal%2Fhuimin_mu1_baylor_edu%2FDocuments%2FNotebooks%2FBootCamp&wd=target%28OPERATING%20SYSTEM.one%7C2508957C-2AF9-4AFC-8376-2E2AA8F17191%2F%29
+onenote:https://baylor0-my.sharepoint.com/personal/huimin_mu1_baylor_edu/Documents/Notebooks/BootCamp/OPERATING%20SYSTEM.one#section-id={2508957C-2AF9-4AFC-8376-2E2AA8F17191}&end)
 - [ ] [学习实验环境入门](https://www.lanqiao.cn/courses/221/learning/?id=709)
 - [ ] [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 
