@@ -16,7 +16,7 @@
 
 - [ ] Grading how？
 
-**Action items/88
+**Action items**
 
 - [ ] lab1
 - [ ] 熟悉基本的git命令行操作命令，从github上 的 http://www.github.com/chyyuu/ucore_lab 下载 ucore lab实验
