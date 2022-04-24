@@ -4,19 +4,19 @@
 
 ### 4/24 
 
-1. Agenda
+1. **Agenda**
 
-- Notes
+*Notes*
 
 - [ ] Lecture Notes see OneNote
 
-- [ ][学习实验环境入门](https://www.lanqiao.cn/courses/221/learning/?id=709)
+- [ ] [学习实验环境入门](https://www.lanqiao.cn/courses/221/learning/?id=709)
 
-- Questions
+*Questions*
 
-- [ ]Grading how？
+- [ ] Grading how？
 
-2. Action items: 
+2. **Action items/88
 
 - [ ] lab1
 - [ ] 熟悉基本的git命令行操作命令，从github上 的 http://www.github.com/chyyuu/ucore_lab 下载 ucore lab实验
